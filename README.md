@@ -7,16 +7,12 @@
 To show understanding and ability to clean the data in Excel, the establishment of relationships, their reflection and visualization in Tableau.
  
  **Techniques used**:
+ 
 Cleaning the data 
-
 Creating the table
-
 Filtering the table
-
 Sorting the data by client requirements
-
 Analysing the information
-
 Creating charts and dashboards.
 
 
