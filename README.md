@@ -9,7 +9,7 @@ To show understanding and ability to clean the data in Excel, the establishment 
 + Techniques used:
 Cleaning the data, creating the table, filtering the table, sorting the data by client requirements, analysing the information,  creating charts and dashboards. 
 
-[Link] (https://public.tableau.com/views/Thewealthofnationspart1/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
-[link] (https://public.tableau.com/views/Thewealthofnationspart2/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+(https://public.tableau.com/views/Thewealthofnationspart1/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+(https://public.tableau.com/views/Thewealthofnationspart2/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
